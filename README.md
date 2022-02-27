@@ -1,4 +1,4 @@
-# JAVA FULL STACK
+# FULL STACK - WEB APPLICATION
 
 ## Project Name: Flowers Online Webapp
 #### --------------------------------------------------------------------------
